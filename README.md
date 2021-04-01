@@ -1,4 +1,4 @@
-# World Populations Throughout History
+This repository contains ongoing analysis based on the Seshat World History Databank being performed both as assignments for IBM Machine Learning certification and for the purpose of personal interest. 
  
 This research employed data from the Seshat Databank
 (seshatdatabank.info) under Creative Commons Attribution
@@ -13,7 +13,3 @@ C. Spencer. 2017. “Quantitative historical analysis uncovers a single
 dimension of complexity that structures global variation in human
 social organization.” PNAS.
 http://www.pnas.org/content/early/2017/12/20/1708800115.full.
-
-\The subject of this analysis is assessing and comparing levels of
-world populations in different geographical areas throughout human
-history.
